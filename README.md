@@ -9,14 +9,25 @@
 <br/>
 
 <div align="center">
- 
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
 
-💬 Ask me about  anything [here](https://github.com/anujd09/anujd09/issues)**
+  <br/>
+
+  🔭 I’m currently working on ******* project
+ <br/>
+ 
+ 🌱 I’m currently learning **Rust and Backend Development**
+ <br/>
+ 💬 Ask me about  anything [here](https://github.com/anujd09/anujd09/issues)**
+ 
+ <br/>
+
 
 ⚡ Fun fact **Forging involves shaping metal using localized compressive forces.**
+ <br/>
+ 
+ ⚡ Fun fact **Forging ahead in tech, one line of code at a time**
+ <br/>
+
 
  </div>
  
@@ -46,7 +57,7 @@
 
 
 
-<br/><br/>
+
 
 <hr/>
 
