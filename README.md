@@ -21,11 +21,10 @@
  
  <br/>
 
-
-⚡ Fun fact **Forging involves shaping metal using localized compressive forces.**
+ **Forging involves shaping metal using localized compressive forces.**
  <br/>
  
- ⚡ Fun fact **Forging ahead in tech, one line of code at a time**
+ **Forging ahead in tech, one line of code at a time**
  <br/>
 
 
