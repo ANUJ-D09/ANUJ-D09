@@ -4,17 +4,19 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Anuj+Damani!;" alt="Typing Animation" />
 </h1>
 
-<h3 align="center">Full-Stack Developer | Open-Source Contributor | Tech Enthusiast</h3>
+<h3 align="center">A passionate software developer from India 🇮🇳</h3>
 
----
+<br/>
 
-### 🌟 **About Me**
-- 🔭 Currently building **AI-powered applications**
-- 🌱 Learning **Rust, Kubernetes, and Cloud Architecture**
-- 💡 Passionate about **Open Source & DevOps**
-- ⚡ Fun fact: **I automate everything I can!**
+<div align="center">
+  
+  🔭 I'm currently working on **a secret project** 🚀  
+  🌱 I'm currently learning **Rust and Backend Development**  
+  💬 Ask me about anything [here](https://github.com/anujd09/anujd09/issues)  
+  ⚡ Fun fact: **Forging involves shaping metal using localized compressive forces**  
+  🎯 Motto: **Forging ahead in tech, one line of code at a time**  
 
----
+</div>
 
 ### 🛠️ **Tech Stack**
 #### **Frontend**
