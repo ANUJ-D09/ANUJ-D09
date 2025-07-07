@@ -38,7 +38,7 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ANUJ-D09&theme=radical" alt="GitHub Streak"/>
   
   <!-- ADD THE SNAKE GRAPH HERE -->
-  <img src=" https://raw.githubusercontent.com/ANUJ-D09/ANUJ-D09/output/github-snake.svg" alt=" Graph" width="100%"/>
+  <img src="https://raw.githubusercontent.com/ANUJ-D09/ANUJ-D09/output/github-snake.svg" alt=" Graph" width="100%"/>
 
   <!-- Trophy Case -->
   <img src="https://github-profile-trophy.vercel.app/?username=ANUJ-D09&theme=onedark&no-frame=true&no-bg=true" alt="GitHub Trophies"/>
